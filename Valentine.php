@@ -62,6 +62,7 @@
     <div class="container">
         <div class="card">
             <h1>Selamat Hari Kasih Sayang Cintaku! ❤️</h1>
+            <p>FERRA FRANSISCA CANTIIIKKK....</p>
             <p>Ada coklat buat kamu sayaang...</p>
             <button class="button" onclick="showMessage()">Klik untuk ambil!</button>
             <p id="message">Eh ternyata habis, silahkan hubungi <a class="whatsapp-link" href="https://wa.me/6288216473898">pacarmu</a>! 🤣</p>
